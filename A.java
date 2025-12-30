@@ -1,5 +1,5 @@
 class A {
     public static void main(String[] args) {
-        System.out.print("Java program");
+        System.out.print("Java program a");
     }
 }
